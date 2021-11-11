@@ -7,5 +7,3 @@ We're using this repository for two purposes:
 
 - to practice forking a repo, making changes, pushing changes, and opening a pull request, and...
 - to document resources that others may find helpful in the future!
-
-![git-workflow-light](https://user-images.githubusercontent.com/63985074/141351423-fee1f6cd-db59-4318-a27b-a028d4578036.png)
